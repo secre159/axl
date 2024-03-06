@@ -877,9 +877,9 @@ def meth2(ids, names, passlist):
                     fbdm2 = fbdm_data.get('fbdm2')
                     fbdm3 = fbdm_data.get('fbdm3')
     
-                    print("Successfully loaded fbdm1:", fbdm1)
-                    print("Successfully loaded fbdm2:", fbdm2)
-                    print("Successfully loaded fbdm3:", fbdm3)
+                    #print("Successfully loaded fbdm1:", fbdm1)
+                    #print("Successfully loaded fbdm2:", fbdm2)
+                    #print("Successfully loaded fbdm3:", fbdm3)
     
             except FileNotFoundError:
                 print("File 'update.json' not found.")
