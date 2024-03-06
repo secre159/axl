@@ -1444,7 +1444,7 @@ async def sub():
     print(logo)
     async with aiohttp.ClientSession() as sess:
         async with sess.get(
-            "https://github.com/secre159/approval/blob/main/approved.txt"
+            "https://github.com/secre159/axl/blob/main/approval.txt"
         ) as appro:
             r1 = await appro.text()
             if key1 in r1:
