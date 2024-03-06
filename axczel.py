@@ -869,27 +869,27 @@ def meth2(ids, names, passlist):
                 .replace("Name", names)
                 .replace("name", names.lower())
             )
-        try:
-            with open('update.json') as json_file:
-                fbdm_data = json.load(json_file)
-
-                fbdm1 = fbdm_data.get('fbdm1')
-                fbdm2 = fbdm_data.get('fbdm2')
-                fbdm3 = fbdm_data.get('fbdm3')
-
-                print("Successfully loaded fbdm1:", fbdm1)
-                print("Successfully loaded fbdm2:", fbdm2)
-                print("Successfully loaded fbdm3:", fbdm3)
-
-        except FileNotFoundError:
-            print("File 'update.json' not found.")
-        except json.JSONDecodeError:
-            print("Error decoding JSON from 'update.json'.")
-        except KeyError as e:
-            print("KeyError:", e)
-        except Exception as e:
-            print("An error occurred:", e)
-
+            try:
+                with open('update.json') as json_file:
+                    fbdm_data = json.load(json_file)
+    
+                    fbdm1 = fbdm_data.get('fbdm1')
+                    fbdm2 = fbdm_data.get('fbdm2')
+                    fbdm3 = fbdm_data.get('fbdm3')
+    
+                    print("Successfully loaded fbdm1:", fbdm1)
+                    print("Successfully loaded fbdm2:", fbdm2)
+                    print("Successfully loaded fbdm3:", fbdm3)
+    
+            except FileNotFoundError:
+                print("File 'update.json' not found.")
+            except json.JSONDecodeError:
+                print("Error decoding JSON from 'update.json'.")
+            except KeyError as e:
+                print("KeyError:", e)
+            except Exception as e:
+                print("An error occurred:", e)
+    
 
             accessToken = "350685531728|62f8ce9f74b12f84c123cc23437a4a32"
             fbav = f"{random.randint(111,999)}.0.0.{random.randint(11,99)}.{random.randint(111,999)}"
