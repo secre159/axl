@@ -1,19 +1,19 @@
 {
   "fbdma1": "FBDM/{density=3.375,width=1080,height=2058};FBLC/en_US;FBRV/239526854;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G950U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]",
   "fbdma2": "FBDM/{density=2.625,width=1080,height=2042};FBLC/en_US;FBRV/283878362;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G973F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]",
-  "fbdma3": "FBDM/{density=2.625,width=1080,height=2183};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A715F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]"
+  "fbdma3": "FBDM/{density=2.625,width=1080,height=2183};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A715F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]",
 
 
 
   "fbdmb1": "FBDM/{density=3.0,width=1080,height=2176};FBLC/en_US;FBRV/342753089;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G991W;FBSV/12;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]",
   "fbdmb2": "FBDM/{density=2.8125,width=1080,height=2208};FBLC/en_US;FBRV/394933579;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A135F;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
-  "fbdmb3": "FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/341598563;FBCR/GLOBE;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.%s;FBDV/SM-N920V;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
+  "fbdmb3": "FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/341598563;FBCR/GLOBE;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.%s;FBDV/SM-N920V;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
 
 
 
   "fbdmc1": "FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/390892742;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G935F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
   "fbdmc2": "FBDM/{density=3.375,width=1080,height=2172};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A235F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdmc3": "FBDM/{density=1.75,width=720,height=1382};FBLC/en_US;FBRV/527025282;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A105FN;FBSV/11;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+  "fbdmc3": "FBDM/{density=1.75,width=720,height=1382};FBLC/en_US;FBRV/527025282;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A105FN;FBSV/11;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
 
 
 
