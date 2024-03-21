@@ -1,13 +1,13 @@
 {
-  "fbdma1": "FBDM/{density=3.375,width=1080,height=2058};FBLC/en_US;FBRV/239526854;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G950U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdma2": "FBDM/{density=2.625,width=1080,height=2042};FBLC/en_US;FBRV/283878362;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G973F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]",
-  "fbdma3": "FBDM/{density=2.625,width=1080,height=2183};FBLC/en_US;FBRV/0;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A715F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]",
+  "fbdma1": "FBDM/{density=3.2,width=1080,height=1486};FBLC/en_US;FBRV/296.0.0.8.170;FBCR/Sunbeach;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/X5515I;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdma2": "FBDM/{density=2.2,width=1080,height=1414};FBLC/en_US;FBRV/203.0.0.6.145;FBCR/TDC;FBMF/Tecno;FBBD/Tecno;FBPN/com.facebook.%s;FBDV/Camon 16;FBSV/11;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdma3": "FBDM/{density=3.1,width=1080,height=1421};FBLC/en_US;FBRV/315.0.0.5.127;FBCR/MATTEL;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.%s;FBDV/XT2127-140;FBSV/12;FBOP/1;FBCA/arm64-v8a:]",
 
 
 
   "fbdmb1": "FBDM/{density=3.0,width=1080,height=2176};FBLC/en_US;FBRV/342753089;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-G991W;FBSV/12;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]",
-  "fbdmb2": "FBDM/{density=2.8125,width=1080,height=2208};FBLC/en_US;FBRV/394933579;FBCR/TM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.%s;FBDV/SM-A135F;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
-  "fbdmb3": "FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/341598563;FBCR/GLOBE;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.%s;FBDV/SM-N920V;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+  "fbdmb2": "FBDM/{density=2.4,width=1080,height=1449};FBLC/en_US;FBRV/213.0.0.2.121;FBCR/Lebara KSA;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.%s;FBDV/M2123K10C;FBSV/10;FBOP/1;FBCA/arm64-v8a:]",
+  "fbdmb3": "FBDM/{density=2.1,width=1080,height=1471};FBLC/en_US;FBRV/288.0.0.6.186;FBCR/Lebara KSA;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.%s;FBDV/CPH1863;FBSV/9;FBOP/1;FBCA/arm64-v8a:]",
 
 
 
